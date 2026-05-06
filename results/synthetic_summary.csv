@@ -1,0 +1,13 @@
+dataset,algorithm,Race->Loan,SHD,beta_hat,lat_conf
+biased,PC,no,8,,False
+biased,FCI,no,11,,False
+biased,GES,YES,9,,False
+biased,GRaSP,no,8,,False
+biased,ICA-LiNGAM,YES,1,-0.1638,False
+biased,DirectLiNGAM,YES,1,-0.1638,False
+unbiased,PC,no,3,,False
+unbiased,FCI,no,7,,True
+unbiased,GES,no,3,,False
+unbiased,GRaSP,no,6,,False
+unbiased,ICA-LiNGAM,no,1,0.0,False
+unbiased,DirectLiNGAM,no,1,0.0,False

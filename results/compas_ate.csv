@@ -1,0 +1,4 @@
+stage,ATE,SE,n_controls,controls
+no controls,1.8447,0.0557,0,(none)
+age + charge,1.4,0.0524,2,"Age, ChargeDegree"
+full criminal history,0.7922,0.0468,5,"Age, ChargeDegree, JuvFelony, JuvMisd, Priors"

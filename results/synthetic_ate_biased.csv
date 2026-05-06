@@ -1,0 +1,6 @@
+stage,ATE,SE,n_controls,controls
+no controls,-0.3576,0.054,0,(none)
++ Income,-0.2093,0.0425,1,Income
+"+ Income, CreditSc",-0.1699,0.0371,2,"Income, CreditSc"
+"+ ZIP, Income, CreditSc",-0.165,0.0401,3,"ZIP, Income, CreditSc"
+"+ Gender, Education, ZIP, Income, CreditSc",-0.1637,0.0402,5,"Gender, Education, ZIP, Income, CreditSc"
